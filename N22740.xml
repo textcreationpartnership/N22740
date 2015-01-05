@@ -116,8 +116,9 @@
    <text xml:lang="unk">
       <body>
          <div type="letter">
-            <pb facs="tcp:030050_0000_0FE3F196DE4567A8" rendition="simple:additions"/>
-            <pb facs="tcp:030050_0001_0FE4158E2D692EE0"/>
+            <pb facs="unknown:030050_0000_0FE3F196DE4567A8"
+                rendition="simple:additions"/>
+            <pb facs="unknown:030050_0001_0FE4158E2D692EE0"/>
             <opener>
                <salute>GENTLEMEN,</salute>
                <dateline>
